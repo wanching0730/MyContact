@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="title_activity_add_contact">Add Contact</string>
+    <string name="title_activity_view_contact">View Contact</string>
+    <string name="title_activity_update_contact">Update Contact</string>
+
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="input_phone">Phone</string>
+
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="sp_save_state">spSaveState</string>
+
+</resources>
